@@ -1,0 +1,26 @@
+.sub{
+    margin: 20px;
+    text-align: center;
+}
+.title{
+    text-align: center;
+}
+.customize{
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.image{
+    height: 40%;
+    width: 100%;
+}
+.cart{
+    text-align: right;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid gray;
+}
